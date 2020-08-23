@@ -21,6 +21,7 @@ export const Form = styled.form<FormProps>`
   input {
     flex: 1;
     height: 70px;
+    font-family: 'Roboto';
     padding: 0 24px;
     border: 0;
     border-radius: 5px 0 0 5px;
